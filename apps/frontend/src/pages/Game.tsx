@@ -66,7 +66,7 @@ export const GamePage = () => {
     <main className="page">
       <section className="hero">
         <div>
-          <p className="eyebrow">DEV BY NIKOLAYEVSK</p>
+          <p className="eyebrow">DEV BY AVGVSTO</p>
           <h1>IA Soulslike Training</h1>
           <p className="description">
             Duelo em tempo real onde um boss adaptativo aprende seu estilo e responde em combate.
